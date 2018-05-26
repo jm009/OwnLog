@@ -15,6 +15,5 @@
 -->
 
 <ripple xmlns:android="http://schemas.android.com/apk/res/android"
-    android:color="?attr/colorControlHighlight">
-    <item android:drawable="?attr/backgroundColorPeekActionBar" />
+    android:drawable="?attr/backgroundColorPeekActionBar" android:color="?attr/colorControlHighlight">
 </ripple>
